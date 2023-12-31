@@ -1,5 +1,2 @@
 google.generativeai
-langchain
-python-dotenv
-gradio
 streamlit
